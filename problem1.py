@@ -1,5 +1,3 @@
-import requests
-
 with open('./problem1.txt', 'r') as input:
     # separate array by \n
     curr_elf = 0
